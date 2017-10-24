@@ -1,6 +1,6 @@
 # Climate-Analysis
 
-# In this project I did some pretty neat climate analysis based on a couple of CSV files, using Python and its packages, especially sqlalchemy.
+##### In this project I did some pretty neat climate analysis based on a couple of CSV files, using Python and its packages, especially sqlalchemy.
 
 ###### data_engineering.ipynb
 This is the notebook where I cleaned up the csv files.
